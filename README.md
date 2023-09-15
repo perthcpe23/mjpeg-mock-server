@@ -1,3 +1,6 @@
+## mjpeg-mock-server
+This repository turns a set of local JPEG images into MJPEG video stream.
+
 ## How to run
 1. Make sure you have `images` directory with `.jpg` files inside at the same location with `.go` file.
 2. Execute this command
